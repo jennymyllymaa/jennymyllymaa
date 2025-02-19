@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm </h1>
+<h1>Hi 👋, I'm Jenny Myllymaa</h1>
 <p>Sofware developer student from Tampere, Finland. I am on my third year of my studies and have a lot of projects that are either produced by myself or with a group. You can find my most important projects in the pinned repositories. I have experience with both frontend and backend development but mostly in group projects I have been in charge of backend and databases.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
